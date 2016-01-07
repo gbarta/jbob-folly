@@ -1,0 +1,10 @@
+[package]
+name = "jbob"
+version = "0.1.0"
+authors = ["Gabriel Barta <gbarta@gabrielbarta.com>"]
+
+[lib]
+name = "jbob"
+plugin = true
+
+[dependencies]
